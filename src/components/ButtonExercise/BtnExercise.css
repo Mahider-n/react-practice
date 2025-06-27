@@ -1,0 +1,10 @@
+.bbutton{
+    background: blue;
+    border-radius: 5px;
+    /* width: 50%; */
+    height: 30px;
+    color: white;
+    /* font-weight: bold; */
+    margin-bottom: 10px;
+
+}
